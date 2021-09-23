@@ -9,3 +9,7 @@
 
 - download ngrok to setup access localhost anywhere
 - ./ngrok http + port
+
+- Angular 
+- tab1: ng serve
+- tab2: ./ngrok http 4200 -host-header="localhost:4200"
